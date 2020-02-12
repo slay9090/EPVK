@@ -8,6 +8,7 @@ EPVK - Программа для автоматического поиска и 
 - Microsoft .NET Framework 4
 - Windows XP/7/8/10
 - Internet Explorer от 8й версии и выше
+
 ![Иллюстрация к проекту](https://github.com/slay9090/EPVK/raw/master/VK_test/img/1.png)
 
 Возможности:
