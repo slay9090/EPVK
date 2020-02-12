@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PropsFields xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <XMLFileName>C:\Project_C\VK_test\VK_test\bin\Debug\тест1.xml</XMLFileName>
+  <TextValueBox1>75514519</TextValueBox1>
+  <TextValueBox2>Если нужно найти клиентов, попробуй нашу прогу. Подробности в группе</TextValueBox2>
+  <TextValueBox3>0</TextValueBox3>
+  <TextValueBox4>3</TextValueBox4>
+  <TextValueBox5>0</TextValueBox5>
+  <TextValueBox6>255960231</TextValueBox6>
+  <TextValueBox7>"Рисую арт*"; "Дела* арт*"; "Сдела* арт*"; "Дела* дизайн*"; "Сдела* дизайн*"; "Рисую фото*"; "Дела* фото*"; "Сдела* фото*"</TextValueBox7>
+  <TextValueBox8>Рисую арт; Дела арт; Сдела арт; Дела дизайн; Сдела дизайн; Рисую фото; Дела фото; Сдела фото</TextValueBox8>
+  <BoolValueChebox1>true</BoolValueChebox1>
+  <BoolValueChebox2>true</BoolValueChebox2>
+  <BoolValueChebox3>true</BoolValueChebox3>
+  <BoolValueChebox4>true</BoolValueChebox4>
+  <intValueCombox1>0</intValueCombox1>
+</PropsFields>

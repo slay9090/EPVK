@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PropsFields xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <XMLFileName>D:\Project_C\VK_test\VK_test\bin\Debug\рисованые_авы.xml</XMLFileName>
+  <TextValueBox1>75514519</TextValueBox1>
+  <TextValueBox2>Хочешь прикольную фотку или аву? Загляни к нам =)</TextValueBox2>
+  <TextValueBox3>0</TextValueBox3>
+  <TextValueBox4>3</TextValueBox4>
+  <TextValueBox5>0</TextValueBox5>
+  <TextValueBox6>000</TextValueBox6>
+  <TextValueBox7>"сделай* аву"; "сделай* аватарку"; "сделай* фото"; "нарисуй* аву"; "нарисуй* аватарку"; "нарисуй* фото"</TextValueBox7>
+  <TextValueBox8>сделайте аватарку; отфотошопте фотку; отфотошопте авку; нарисуй мне; сделай рисунок</TextValueBox8>
+  <BoolValueChebox1>true</BoolValueChebox1>
+  <BoolValueChebox2>true</BoolValueChebox2>
+  <BoolValueChebox3>true</BoolValueChebox3>
+  <BoolValueChebox4>true</BoolValueChebox4>
+  <intValueCombox1>0</intValueCombox1>
+</PropsFields>

@@ -1,0 +1,501 @@
+﻿***********************
+дата: 30.05.2018 11:22:58
+
+Недопустимая операция в нескольких потоках: попытка доступа к элементу управления 'richTextBox4' не из того потока, в котором он был создан.
+************************
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.RichTextBox.StreamOut(Stream data, Int32 flags, Boolean includeCrLfs)
+   в System.Windows.Forms.RichTextBox.StreamOut(Int32 flags)
+   в System.Windows.Forms.RichTextBox.get_Text()
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 2163
+******************
+
+***********************
+дата: 30.05.2018 11:23:03
+
+Недопустимая операция в нескольких потоках: попытка доступа к элементу управления 'richTextBox4' не из того потока, в котором он был создан.
+************************
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.RichTextBox.StreamOut(Stream data, Int32 flags, Boolean includeCrLfs)
+   в System.Windows.Forms.RichTextBox.StreamOut(Int32 flags)
+   в System.Windows.Forms.RichTextBox.get_Text()
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 2163
+******************
+
+***********************
+дата: 30.05.2018 11:38:01
+
+Произошла одна или несколько ошибок.
+************************
+   в System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   в VkNet.Utils.WebCall.MakeCall(String url, IWebProxy webProxy)
+   в VkNet.Utils.Browser.Authorize(IApiAuthParams authParams)
+   в VkNet.VkApi.BaseAuthorize(IApiAuthParams authParams)
+   в VkNet.VkApi.Authorize(IApiAuthParams params)
+   в VK_test.Avtorizacia.button1_Click(Object sender, EventArgs e) в D:\Project_C\VK_test\VK_test\Avtorizacia.cs:строка 48
+******************
+
+***********************
+дата: 30.05.2018 11:38:10
+
+Метод 'wall.get' нельзя вызывать без авторизации
+************************
+   в VkNet.VkApi.Invoke(String methodName, IDictionary`2 parameters, Boolean skipAuthorization)
+   в VkNet.VkApi.CallBase(String methodName, VkParameters parameters, Boolean skipAuthorization)
+   в VkNet.VkApi.Call(String methodName, VkParameters parameters, Boolean skipAuthorization)
+   в VkNet.Categories.WallCategory.Get(WallGetParams params, Boolean skipAuthorization)
+   в VK_test.Avtorizacia.button1_Click(Object sender, EventArgs e) в D:\Project_C\VK_test\VK_test\Avtorizacia.cs:строка 92
+******************
+
+***********************
+дата: 30.05.2018 11:39:09
+
+Произошла одна или несколько ошибок.
+************************
+   в System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   в VkNet.Utils.WebCall.MakeCall(String url, IWebProxy webProxy)
+   в VkNet.Utils.Browser.Authorize(IApiAuthParams authParams)
+   в VkNet.VkApi.BaseAuthorize(IApiAuthParams authParams)
+   в VkNet.VkApi.Authorize(IApiAuthParams params)
+   в VK_test.Avtorizacia.button1_Click(Object sender, EventArgs e) в D:\Project_C\VK_test\VK_test\Avtorizacia.cs:строка 48
+******************
+
+***********************
+дата: 30.05.2018 11:39:11
+
+Метод 'wall.get' нельзя вызывать без авторизации
+************************
+   в VkNet.VkApi.Invoke(String methodName, IDictionary`2 parameters, Boolean skipAuthorization)
+   в VkNet.VkApi.CallBase(String methodName, VkParameters parameters, Boolean skipAuthorization)
+   в VkNet.VkApi.Call(String methodName, VkParameters parameters, Boolean skipAuthorization)
+   в VkNet.Categories.WallCategory.Get(WallGetParams params, Boolean skipAuthorization)
+   в VK_test.Avtorizacia.button1_Click(Object sender, EventArgs e) в D:\Project_C\VK_test\VK_test\Avtorizacia.cs:строка 92
+******************
+
+***********************
+дата: 30.05.2018 11:46:11
+
+Произошла одна или несколько ошибок.
+************************
+   в System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   в VkNet.Utils.WebCall.MakeCall(String url, IWebProxy webProxy)
+   в VkNet.Utils.Browser.Authorize(IApiAuthParams authParams)
+   в VkNet.VkApi.BaseAuthorize(IApiAuthParams authParams)
+   в VkNet.VkApi.Authorize(IApiAuthParams params)
+   в VK_test.Avtorizacia.button1_Click(Object sender, EventArgs e) в D:\Project_C\VK_test\VK_test\Avtorizacia.cs:строка 70
+******************
+
+***********************
+дата: 30.05.2018 11:46:12
+
+Метод 'wall.get' нельзя вызывать без авторизации
+************************
+   в VkNet.VkApi.Invoke(String methodName, IDictionary`2 parameters, Boolean skipAuthorization)
+   в VkNet.VkApi.CallBase(String methodName, VkParameters parameters, Boolean skipAuthorization)
+   в VkNet.VkApi.Call(String methodName, VkParameters parameters, Boolean skipAuthorization)
+   в VkNet.Categories.WallCategory.Get(WallGetParams params, Boolean skipAuthorization)
+   в VK_test.Avtorizacia.button1_Click(Object sender, EventArgs e) в D:\Project_C\VK_test\VK_test\Avtorizacia.cs:строка 92
+******************
+
+***********************
+дата: 31.05.2018 13:36:19
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 13:38:23
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 13:38:24
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 13:38:25
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 13:38:27
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 13:38:28
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 13:38:29
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 13:38:30
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 13:38:31
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 13:38:33
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 13:38:34
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 13:38:35
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 13:38:36
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 13:38:37
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 13:38:44
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 13:38:45
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:04:01
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:04:02
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:04:04
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:04:05
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:04:06
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:04:07
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:04:08
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:04:09
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:04:10
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:04:11
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:04:12
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:04:13
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:04:14
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:04:21
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:04:22
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:37:00
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:37:01
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:37:01
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:37:02
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:37:04
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:37:05
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:37:06
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:37:07
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:37:07
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:37:08
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:37:09
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:37:10
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:37:12
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:37:14
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:37:16
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:37:17
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 31.05.2018 14:37:18
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в D:\Project_C\VK_test\VK_test\Osnova.cs:строка 1134
+******************
+
+***********************
+дата: 04.06.2018 20:15:51
+
+Неожиданный EOF или 0 байт из транспортного потока.
+************************
+   в System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   в System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   в VK_test.Osnova.Get_search_news() в C:\Project_C\VK_test\VK_test\Osnova.cs:строка 503
+******************
+
+***********************
+дата: 04.06.2018 20:25:02
+
+Ссылка на объект не указывает на экземпляр объекта.
+************************
+   в VK_test.Osnova.create_comment() в C:\Project_C\VK_test\VK_test\Osnova.cs:строка 2227
+******************
+

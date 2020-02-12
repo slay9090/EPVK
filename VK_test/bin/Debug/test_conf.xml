@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PropsFields xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <XMLFileName>D:\Project_C\VK_test\VK_test\bin\Debug\test_conf.xml</XMLFileName>
+  <TextValueBox1>7</TextValueBox1>
+  <TextValueBox2>9</TextValueBox2>
+  <TextValueBox3>1</TextValueBox3>
+  <TextValueBox4>3</TextValueBox4>
+  <TextValueBox5>2</TextValueBox5>
+  <TextValueBox6>8</TextValueBox6>
+  <TextValueBox7>6</TextValueBox7>
+  <TextValueBox8>5</TextValueBox8>
+  <BoolValueChebox1>true</BoolValueChebox1>
+  <BoolValueChebox2>true</BoolValueChebox2>
+  <BoolValueChebox3>true</BoolValueChebox3>
+  <BoolValueChebox4>true</BoolValueChebox4>
+  <intValueCombox1>4</intValueCombox1>
+</PropsFields>
