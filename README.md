@@ -9,6 +9,9 @@ EPVK - Программа для автоматического поиска и 
 - Windows XP/7/8/10
 - Internet Explorer от 8й версии и выше
 
+Зависимости:
+- VkNet.1.35.1
+
 ![Иллюстрация к проекту](https://github.com/slay9090/EPVK/raw/master/VK_test/img/1.png)
 
 Возможности:
